@@ -21,6 +21,19 @@ but rather in a way it is presented. Doing live coding tutor explains OpenGL con
 of others OpenGL tutorials (most of them) he also shows how to structure your OpenGL code properly. At the end of this tutorial you'll
 have your own small rendering engine organised in OOP way. A brilliant point to start for a newbie.
 
+[OGLDev OpenGL Step by Step](https://triplepointfive.github.io/ogltutor/) - Quite straightforward tutorial of Modern OpenGL. Consists of
+small lessons. Each is done in a "from explanation straight to the code" manner. Also available in Russian language.
+
+**Qt Tutorials**
+
+[Trent Reed: Qt5 OpenGL](http://www.trentreed.net/blog/qt5-opengl-part-0-creating-a-window/) - A small series of tutorials 
+demonstrating how to make OpenGL applicatinon on Qt framework. Here are all 5 parts: 
+[Part 1](http://www.trentreed.net/blog/qt5-opengl-part-0-creating-a-window/), 
+[Part 2](http://www.trentreed.net/blog/qt5-opengl-part-2-3d-rendering/), 
+[Part 3a](http://www.trentreed.net/blog/qt5-opengl-part-3a-efficient-input-managers/), 
+[Part 3b](http://www.trentreed.net/blog/qt5-opengl-part-3b-camera-control/), 
+[Part 4](http://www.trentreed.net/blog/qt5-opengl-part-4-error-checking/), 
+[Part 5](http://www.trentreed.net/blog/qt5-opengl-part-5-debug-logging/)
 
   **Some object selection techniques**
   
